@@ -23,5 +23,5 @@
 hs_err_pid*
 replay_pid*
 !/.idea/
-/task-platform/task-platform/.mvn/
 /.idea/
+/drool/target/
